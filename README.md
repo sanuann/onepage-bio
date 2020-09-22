@@ -30,7 +30,7 @@ See [Jekyll below for details.](#Jekyll)
 
 ## How to use
 
- - Place your photo in `/img/profile.png`
+ - Place your photo in `/img/`
  - (Optional) Update the favicon `/img/icon.png`
  - Edit `_config.yml` to give your name, email address, social media contacts, etc. You can also update the color scheme.
  - Edit content in `/_includes/about_me.html` and `/_includes/interests.html`
